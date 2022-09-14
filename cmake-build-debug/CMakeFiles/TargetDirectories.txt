@@ -1,3 +1,0 @@
-/home/danil/Документы/TasksC/cmake-build-debug/CMakeFiles/TasksC.dir
-/home/danil/Документы/TasksC/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/danil/Документы/TasksC/cmake-build-debug/CMakeFiles/rebuild_cache.dir
