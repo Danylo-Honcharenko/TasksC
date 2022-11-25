@@ -36,7 +36,7 @@ int main() {
             cin >> c;
 
             if(-c!=0) {
-                f = x - a / (-c);
+                f = (x - a) / (-c);
                 cout << "F = " << f;
             } else {
                 cout << "Функция неопределена";
